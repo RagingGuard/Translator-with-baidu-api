@@ -1,6 +1,8 @@
 # Translator-with-baidu-api
 小翻译机 QT代码 使用百度翻译api（第一次开源，请多包含）
 
+软件调试过，没有bug，还解决了免费api中英文切换乱码的问题(仿佛听到百度的工作人员说：“一群白票党还想用好货，呵呵！！”)
+
 一、界面效果如下：
 
   ![捕获](https://user-images.githubusercontent.com/95950085/163393389-8c6e5c01-4054-45d6-9b49-5ea9fba01787.PNG)
