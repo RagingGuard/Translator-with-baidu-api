@@ -22,7 +22,7 @@
  
 注意：
 
-1、由于QT没有curl相关的操作，使用的是c库，所以需要增加如下库（已经在qt配置文件中设置）变异过程中出现需要增加库，直接根据提示安装对应程序即可（sudo apt-get install xxxxx）
+1、由于模仿百度给的demo，使用的是c库，所以需要增加如下库（已经在qt配置文件中设置）变异过程中出现需要增加库，直接根据提示安装对应程序即可（sudo apt-get install xxxxx）
 
 LIBS += -lssl -lcurl -lcrypto
 
